@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Wed, 08 May 2024 11:38:51 +0000
+MD5Sum:
+ 06ea552b7b317def56f1ce4eff097012              403 Packages
+ f78b28bec7a1a3cb81dfa0fcdfe16bb9              323 Packages.gz
+ 015c23f9457d234e8aaddc0b22952320               38 Release
+SHA1:
+ f3281c2fe783319ffafb98778d68fb59df45385a              403 Packages
+ bdc3a2aff40b463c0b4ca1c3626f0ff828aa0e05              323 Packages.gz
+ 0634d8b5777a713d35307806ae6185ef27ebf9fe               38 Release
+SHA256:
+ 7b940721a46ebecf93ab55b692c3cd67d2eaf7c3b82763431bc964efac4316ef              403 Packages
+ e6e76c114d63cc617106f0df5eabc332b6a12eda810fb30553f508f41eeb0251              323 Packages.gz
+ 4710be5edc71716d609c37ac869964551bcbf53d8d7b9334a83684a5a41f1482               38 Release
+SHA512:
+ 0451c1fd512ca928be90cb8602cd88a1fc7de08cf6627620323178e642da03f280765f1923b7ea36dc4f2735496d6af10c40f750e6bb4abbbfce5627ecd4a1ea              403 Packages
+ 5fe0682ef40155a1f187b9c1cc438e00f1c8946e1de115dd2654d49ac3eecdf678de1f15fd8128f0948d7d4cbbef72edc0faba3ea381f1b1b6058d7e9eca94ff              323 Packages.gz
+ 47e0df33c2dec3d5cb3ca54e841b9fa516ba8e1090a66b4d163f72b7c17eddc09264166d7d1fc4898df941c22245ba27072ec310b634d97f1f7025413e826025               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJJBAEBCgAzFiEEIVHIen/59H2JsdFudkveX4dLrQsFAmY7ZG0VHGdsYnJhbmlt
+aXJAZ21haWwuY29tAAoJEHZL3l+HS60LyzQP/30Zs2dW3vkOIG59kJ5lGcScxHDL
+SQ440VprGKAwmXl3ZuDikagSKSSU94x+IkyHsz2NmOIH5swh/6Wlb6hBGFBBtQOz
+5Iug6yFIuv6sEmvWhDfqflAvXQO5Pu3v07W432XVow1mi/8LkQf+Ppn+cxjtfZzG
+R4ZeWvJ5LTNire71iJaSYSHh4+/OI2ePIzvURSNSX0eKIXI4qiTSHCodAVGvgPpu
+wD1bW/HXGaV5WQJsJiCthf1Vm9uQyssIcADZKHDmD0zJjvgas9aqm1EUsReXn4hL
+7/fmPT1hHrcQg5FCtR0wSOg3nPa4cpndqjF3vpt3x7Xq0Hjnj/AYwxIFygYvIPy9
+x5PkoJ6dxMbz+7f59jqVlO8+b/qCLZ9zEOOWilL8m8ocFLZ6D/C+OTHuSGZ/et10
+mn+rKMH0QsR+yjmrvQ6PT5Rq9akmYAxtKZ3ze1wgAOBibrk2X7hUI+nyzjFSr9b5
+aaNFi7E0+wFN+R+i8ARuASxgFKpXCAOdMi2JL9o+QvL1VEOM3tZB7SWn377EIrQD
+wGHZkEF8DocQOj1jwhBJlIQMtLozDyhp0TWWX9PxenZvCSyA+LIJC9rIMw+yEIm2
+tewqKQHl+BZCd905CAQ6Fu+GDOwhoBm6QjCriFUzoiKkAiZ9NHhP9GnNWxg4Xmqk
+D1xZqqGM/SHgRVp6
+=yReb
+-----END PGP SIGNATURE-----

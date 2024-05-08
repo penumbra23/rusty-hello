@@ -1,0 +1,15 @@
+Package: rusty-hello
+Version: 0.1.0-1
+Architecture: amd64
+Maintainer: penumbra23
+Installed-Size: 356
+Depends: libc6 (>= 2.34)
+Filename: ./rusty-hello_0.1.0-1_amd64.deb
+Size: 138608
+MD5sum: bd854232313f0c48ae614cab890199a2
+SHA1: e4011e4dd1707fe34cfae228b18bff4d8a0e3118
+SHA256: 4fb2d953d1eea23176b190c73f0245de554185c69d88d34564e0e44f0fbce701
+Priority: optional
+Description: Warm welcome
+ # rusty-hello
+
